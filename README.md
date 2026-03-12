@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**Muzhda-Nazari/Muzhda-Nazari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Muzhda Nazari
 
-Here are some ideas to get you started:
+I am a web development student focused on building clean and practical projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- Learning HTML, CSS, JavaScript, and Python
+- Building real-world front-end projects step by step
+- Based in Vancouver, BC
+
+## Skills
+- HTML
+- CSS
+- JavaScript
+- Python (learning)
+- Git & GitHub
+
+## Projects
+- **Task Manager App** – simple task tracking app using JavaScript and localStorage
+- **HepTech Website** – professional business website for a security systems company
+- **HepTech Admin Dashboard** – internal dashboard for jobs, notes, status, and attachments
+
+## Current Goal
+To keep improving my front-end development skills and build professional projects.
+
+## Connect With Me
+- GitHub: [Muzhda-Nazari](https://github.com/Muzhda-Nazari)
