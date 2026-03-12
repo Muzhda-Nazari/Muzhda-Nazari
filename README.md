@@ -17,8 +17,8 @@ I am a web development student focused on building clean and practical projects.
 
 ## Projects
 - **Task Manager App** – simple task tracking app using JavaScript and localStorage
-- **HepTech Website** – professional business website for a security systems company
-- **HepTech Admin Dashboard** – internal dashboard for jobs, notes, status, and attachments
+- **HEPtech Website** – professional business website for a security systems company
+- **HEPtech Admin Dashboard** – internal dashboard for jobs, notes, status, and attachments
 
 ## Current Goal
 To keep improving my front-end development skills and build professional projects.
