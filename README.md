@@ -1,4 +1,3 @@
-
 # Hi, I'm Muzhda Nazari
 
 I am a web development student focused on building clean and practical projects.
